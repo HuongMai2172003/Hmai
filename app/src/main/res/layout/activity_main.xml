@@ -31,7 +31,7 @@
     <EditText
         android:id="@+id/editTextText6"
         android:layout_width="405dp"
-        android:layout_height="58dp"
+        android:layout_height="60dp"
         android:ems="10"
         android:hint="Nhập số thứ nhất"
         android:inputType="text"
